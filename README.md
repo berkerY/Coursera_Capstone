@@ -1,2 +1,2 @@
 # Coursera_Capstone
-IBM DataScience Capstone Project
+IBM DataScience Professional - Capstone Project
